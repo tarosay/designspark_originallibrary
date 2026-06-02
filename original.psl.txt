@@ -1,0 +1,33 @@
+Library Report
+--------------
+
+Report File    : C:\Users\minao\Documents\CAD_Data\DesignSpark\Library\User\original.psl.txt
+Report Written : Wednesday, June 25, 2014
+
+
+PCB library symbols (*.psl)
+
+
+=============================
+
+
+Library : original    {C:\Users\minao\Documents\CAD_Data\DesignSpark\Library\User}
+
+
+====================================================================================
+
+1608           2012         C-L-R                   CR2450           CT-47
+CT47-little    CX8045       DIP28PIN                DIP254           EMH7601
+GR-KURUMI      HeaderPin14  Jp                      JPbridge         JpHalf
+L-CD54         L-Dis        LCD_I2C                 MC-146(32768Hz)  MHS121
+MHS122-1       MHS122-1_A   microSD_DM3AT-SF-PEJM5  MSOP8Pin         MSOP10pin
+NEJI-M3        PIN2         PIN2Half                PIN2L14          PIN3
+PIN3Half       PIN4         PIN5Half                PIN6             PIN8
+PIN8Half       PIN12        PIN12Half               PIN12Half-1      PIN12Half-2
+PIN16Half      PIN25Half    QFP100                  QFP100N          R4Net
+Regu           Regu2        RL78G13-48              RN42             RX63N-100
+S9706          SOIC-8P      SOT23-5                 SOT457           SW_DIP8_SM
+SW_SKRPACE010  test01       TestPattern             UX60A-MB-5ST     XF2M10151A
+XTAL           ZX62R-B-5P
+
+End Of Report.

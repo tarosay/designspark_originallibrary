@@ -1,0 +1,121 @@
+Library Report
+--------------
+
+Report File    : C:\Users\minao\Documents\CAD_Data\DesignSpark\Library\User\Original.cml.txt
+Report Written : Tuesday, August 05, 2014
+
+
+Component libraries (*.cml)
+
+
+=============================
+
+
+Library : Original    {C:\Users\minao\Documents\CAD_Data\DesignSpark\Library\User}
+
+
+====================================================================================
+
+Component               Ref   Scm Symbol       Scm Library              Package          Pcb Symbol              Pcb Library
+----------------------------------------------------------------------------------------------------------------------------
++1.5V                   V     +1.5V            Original
++3.3V                   V     +3.3V            Original
++5V                     V     +5V              Original
+3G Shield               U     3G Shield        Original
+6D0F                    U     6D0F             Original
+AD8237                  U     AD8237           Original                 SM               MSOP8Pin                original
+AD8553                  U     AD8553           Original                 SM               MSOP10pin               original
+ADT7420                 U     ADT7420          Original
+BCR5AM                  U     BCR5AM           Original
+C-L-R                   C     C                DesignSpark              DIL              C-L-R                   original
+C1608                   C     C                DesignSpark              DIL              1608                    original
+C2012                   C     C                DesignSpark              DIL              2012                    original
+CN2L14                  CONN  PIN14            Original                 DIL              PIN2L14                 original
+CON6                    CONN  PIN6             Original                 DIL              PIN6                    original
+CON25Half               CONN  PIN25            Original                 DIL              PIN25Half               original
+CONN1                   CONN  PIN1             Original                 DIL              PIN1                    original
+CONN2Half               CONN  PIN2             Original                 DIL              PIN2Half                original
+CONN3Half               CONN  PIN3             Original                 DIL              PIN3Half                original
+CONN4                   CONN  PIN4             Original                 DIL              PIN4                    original
+CONN5Half               CONN  PIN5             Original                 DIL              PIN5Half                original
+CONN8                   CONN  PIN8             Original                 DIL              PIN8                    original
+CONN8Half               CONN  PIN8             Original                 DIL              PIN8Half                original
+CONN12                  CONN  PIN12            Original                 DIL              PIN12                   original
+CONN12Half              CONN  PIN12            Original                 DIL              PIN12Half-2             original
+CONN12Half-2            CONN  PIN12            Original                 DIL              PIN12Half-2             original
+CONN16Half-2            CONN  PIN16            Original                 DIL              PIN16Half               original
+Conn25                  CONN  PIN25            Original                 DIL              HarfPIN25
+CR2450                  U     CR2450Case       Original                 DIL              CR2450                  original
+CT-47uF                 C     C                DesignSpark              SM               CT-47                   original
+CT-47uF-little          C     C+               Original                 SM               CT47-little             original
+CX8045                  XTAL  XTAL             DesignSpark              SM               CX8045                  original
+EMH7601                 U     EMH7601          Original                 SM               EMH7601                 original
+FB                      FS    FB               Original                 SM               1005                    original
+FDS5680                 U     FDS5680          Original
+FerriteBead             U     FerriteBead      Original
+GND                     REF   GND              DesignSpark
+GPS LS20031             U     GPS LS20031      Original
+GR-KURUMI               U     GR-KURUMI        Original                 GR-KURUMI        GR-KURUMI               original
+GR-SAKURA               U     GR-SAKURA1       Original
+IMU6Degrees             U     IMU6Degrees      Original
+JP                      J     PIN2             Original                 DIL              Jp                      original
+Jp2Half                 J     Jp               Original                 DIL              JpHalf                  original
+JPbridge                J     Jp               Original                 SM               JPbridge                original
+JpegCamera              U     JpegCamera       Original
+JTAG-E1                 CONN  PIN14            Original                 DIL              HeaderPin14             original
+KXSD9-2050              U     KXSD9-2050       Original
+L                       L     L                DesignSpark
+L-CD54                  L     L-CD54           Original                 SM               L-CD54                  original
+L-DIP-2                 L     L                DesignSpark              DIL              C-L-R                   original
+L-Dis                   L     L                DesignSpark              DIL              L-Dis                   original
+L3GD20                  U     L3GD20           Original
+LCD I2C SB1602B         U     LCD I2C SB1602B  Original                 LCD I2C SB1602B  LCD_I2C                 original
+LED1608                 LED   LED              DesignSpark              DIL              1608                    original
+LPS331AP                U     LPS331AP         Original
+MAX1555                 U     MAX1555          Original                 SM               SOT23-5                 original
+mbed LPC1768            U     mbed LPC1768     Original
+MC-146                  XTAL  XTAL             DesignSpark              SM               MC-146(32768Hz)         original
+MHS121                  SW    SW_1X2           Original                 DIL              MHS121                  original
+MHS122-1                SW    SW_1X2           Original                 DIL              MHS122-1                original
+MHS122-1A               SW    SW_1X2_A         Original                 DIL              MHS122-1_A              original
+microSD_DM3AT-SF-PEJM5  CONN  microSD          Original                 SM               microSD_DM3AT-SF-PEJM5  original
+Motor                   U     Motor            PICAXE_Create_Schematic
+MPU9150                 U     MPU9150          Original
+NEJI-M3                 T     Neji-Hole        Original                 DIL              NEJI-M3                 original
+NJL7502                 U     NJL7502          Original
+NJL7502L                D     NJL7502L         Original                 DIL              DIP254                  original
+NJM2845DL1-18           U     NJM2845DL1       Original                 SM               Regu                    original
+NJM2845DL1-33           U     NJM2845DL1       Original                 DIL              Regu                    original
+NJM2845DL1-33-s         U     NJM2845DL1       Original                 SM               Regu2                   original
+OpenLog                 U     OpenLog          Original
+PIC24FJ64GB002          U     DIP28PIN         Original                 DIL              DIP28PIN                original
+PiezoBuzzer             U     SPB04            Original
+PIN2                    CONN  PIN2             Original                 DIL              PIN2                    original
+PIN3                    CONN  PIN3             Original                 DIL              PIN3                    original
+PIN8                    CONN  PIN8             Original                 DIL              PIN8                    original
+PRTR5V0U4D              U     PRTR5V0U4D       Original                 SM               SOT457                  original
+R4Net                   R     R4net            Original                 SM               R4Net                   original
+R5N563N                 U     R5N563N          Original                 QFP              RX63N-100               original
+R1608                   R     R                DesignSpark              DIL              1608                    original
+RB751S-40               D     DIODE            ltspice                  SM               1608                    original
+RB751S_40               D     Diode            ltspice                  SM               1608                    original
+REF43                   U     REF43            Original                 SM               SOIC-8P                 original
+RL78G13_48              U     RL78_48          Original                 SM               RL78G13-48              original
+RN42                    U     RN42             Original                 SM               RN42                    original
+S9706                   U     S9706            Original                 SM               S9706                   original
+S11059_02DT             U     MPU9150          Original
+SDCard                  U     SD_Card          Original
+SHEET A4                BR    SHeet_A4         Original
+SW_DIP8SM               SW    SW_DIP8          Original                 SM               SW_DIP8_SM              original
+SW_SKRPACE010           SW    SW_1             Original                 SM               SW_SKRPACE010           original
+TA7291P                 U     TA7291P          Original
+test                    R     test             Original
+TEST Pattern            TP    PIN1             Original                 SM               TestPattern             original
+UX60A-MB-5ST            CONN  USB-mini-B       Original                 SM               UX60A-MB-5ST            original
+WRBB                    U     WakayamaRB       Original
+XBEE Adapter            U     XBEE Adapter     Original
+XF2M10151A              CONN  XF2M10151A       Original                 SM               XF2M10151A              original
+XTAL(CX8045GB)          XTAL  XTAL             DesignSpark              SM               XTAL                    original
+ZX62R-B-5P_microUSB     CONN  USB-mini-B       Original                 SM               ZX62R-B-5P              DesignSpark
+
+End Of Report.
