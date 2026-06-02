@@ -1,0 +1,12 @@
+# DesignSpark PCB binary files
+*.cml binary
+*.cmx binary
+*.ssl binary
+*.ssx binary
+*.psl binary
+*.psx binary
+*.ptf binary
+
+# Text report files — keep LF
+*.cml.txt text eol=lf
+*.psl.txt text eol=lf
