@@ -126,6 +126,7 @@ JP3Halfa||#=3=PIN3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Nu
 JPbridge||#SM=2=JPbridge||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 JpegCamera||#=5=JpegCamera||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 JTAG-E1||#DIL=14=HeaderPin14||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+KansaiRubyKaigi09||#USER=0=kansaiRubykaigi09||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 kirimochi-kun||#USER=0=kirimochi-kun||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 KP-9250||#=10=DIP_10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 KXSD9-2050||#=10=KXSD9-2050||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
@@ -167,6 +168,7 @@ microSD_DM3AT-SF-PEJM5_2||#SM=14=microSD_DM3AT-SF-PEJM5_2||@RS Part Number=||@Al
 microUSB-vert-105133-0011||#SM=8=micro-USB-vertical-105133-0011||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 Motor||#=3=Motor||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 MPU9150||#=10=MPU9150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+NEJI-M1_7||#DIL=1=NEJI-M1_7||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NEJI-M3||#DIL=1=NEJI-M3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NJL7502||#=2=NJL7502||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NJL7502L||#DIL=2=DIP254||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
